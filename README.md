@@ -43,7 +43,7 @@ Esto instalará las siguientes dependencias necesarias:
 ### ▶️ Ejecución
 
 ```bash
-node index.js
+node server.js
 ```
 
 ---
@@ -82,7 +82,3 @@ Puedes ejecutar el cliente desde IntelliJ o por consola usando:
 - El cliente Java utiliza los stubs generados automáticamente a partir del `.proto`.
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la licencia ISC.
